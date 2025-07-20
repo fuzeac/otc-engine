@@ -1,4 +1,4 @@
-# fuze‑kpi‑bond‑escrow
+# KPI Bond Escrow
 
 > **Performance‑bond smart‑contracts + Node.js orchestrator**  
 > Stake FUZE, lock against KPIs, auto‑release on success or **slash & reward stakers** on failure.
